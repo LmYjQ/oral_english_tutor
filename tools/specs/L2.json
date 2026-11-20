@@ -1,0 +1,102 @@
+{
+  "lesson": "L2",
+  "title": "My Favorite Things 我喜欢什么",
+  "style": "flat vector illustration for a children's picture book, thick clean outlines, soft pastel color palette, simple rounded shapes, cheerful and friendly, no text, no letters, no words, no numbers, no watermark, no logo, no copyrighted character, high quality, clean background",
+  "images": [
+    {
+      "name": "scene_playroom",
+      "prompt": "a bright cheerful children's playroom: a big soft rug in the middle, a low wooden toy shelf, a bowl of purple grapes, a whole pizza on a plate, a hot dog on a bun, a small cute cat sitting on the rug, a round panda plush toy, and three fat crayons (one bright green, one bright blue, one bright pink) scattered on the floor. Exactly two children: Mia: a girl with brown twin-tails wearing a coral pinafore dress over a white shirt, and Ben: a boy with short black hair wearing a blue shirt and dark shorts, playing on the rug. Only these two children, no other people.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "name": "magic_bag",
+      "prompt": "one single cute round drawstring fabric bag in bright purple with yellow stars on it, closed at the top with a rope, small sparkle stars around it, isolated on plain white background, centered, object only",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "card_grapes",
+      "prompt": "one single bunch of purple grapes with green leaves, isolated on plain white background, centered, object only",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "card_cats",
+      "prompt": "one single small cute orange kitten sitting, isolated on plain white background, centered, animal only",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "card_green",
+      "prompt": "one single bright green paint splat with a green crayon next to it, isolated on plain white background, centered, object only",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "card_hotdog",
+      "prompt": "one single hot dog in a bun with mustard, isolated on plain white background, centered, object only",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "card_pizza",
+      "prompt": "one single whole pizza with cheese and pepperoni, isolated on plain white background, centered, object only",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "card_pandas",
+      "prompt": "one single round sitting panda with black and white fur, isolated on plain white background, centered, animal only",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "card_blue",
+      "prompt": "one single bright blue paint splat with a blue crayon next to it, isolated on plain white background, centered, object only",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "card_pink",
+      "prompt": "one single bright pink paint splat with a pink crayon next to it, isolated on plain white background, centered, object only",
+      "width": 1024,
+      "height": 1024
+    }
+  ],
+  "audio": [
+    { "name": "greeting_1", "text": "Hello, hello, what do you like?", "voice": "anna" },
+    { "name": "greeting_2", "text": "I like it, I like that!", "voice": "anna" },
+    { "name": "greeting_3", "text": "Grapes, cats, and colors too!", "voice": "anna" },
+    { "name": "greeting_4", "text": "Hello, hello, let's say it!", "voice": "anna" },
+    { "name": "review_cake", "text": "cake", "voice": "anna" },
+    { "name": "review_balloon", "text": "balloon", "voice": "anna" },
+    { "name": "review_present", "text": "present", "voice": "anna" },
+    { "name": "review_dog", "text": "dog", "voice": "anna" },
+    { "name": "word_grapes", "text": "grapes", "voice": "anna" },
+    { "name": "word_cats", "text": "cats", "voice": "anna" },
+    { "name": "word_green", "text": "green", "voice": "anna" },
+    { "name": "word_hotdog", "text": "hot dog", "voice": "anna" },
+    { "name": "word_pizza", "text": "pizza", "voice": "anna" },
+    { "name": "word_pandas", "text": "pandas", "voice": "anna" },
+    { "name": "word_blue", "text": "blue", "voice": "anna" },
+    { "name": "word_pink", "text": "pink", "voice": "anna" },
+    { "name": "q_fruit", "text": "What's your favorite fruit?", "voice": "bella" },
+    { "name": "q_animal", "text": "What's your favorite animal?", "voice": "bella" },
+    { "name": "q_color", "text": "What's your favorite color?", "voice": "anna" },
+    { "name": "a_grapes", "text": "I like grapes.", "voice": "anna" },
+    { "name": "a_cats", "text": "I like cats.", "voice": "anna" },
+    { "name": "a_green", "text": "I like green.", "voice": "anna" },
+    { "name": "a_hotdog", "text": "I like hot dogs.", "voice": "anna" },
+    { "name": "a_pizza", "text": "I like pizza.", "voice": "anna" },
+    { "name": "a_pandas", "text": "I like pandas.", "voice": "anna" },
+    { "name": "a_blue", "text": "I like blue.", "voice": "anna" },
+    { "name": "a_pink", "text": "I like pink.", "voice": "anna" },
+    { "name": "prompt_magic", "text": "Pull it out of the bag!", "voice": "anna" },
+    { "name": "prompt_listen", "text": "Listen and tap!", "voice": "anna" },
+    { "name": "prompt_yourturn", "text": "Your turn!", "voice": "anna" },
+    { "name": "prompt_great", "text": "Great job!", "voice": "anna" },
+    { "name": "prompt_welldone", "text": "Well done!", "voice": "anna" },
+    { "name": "prompt_pick", "text": "Tap the one you hear.", "voice": "anna" }
+  ]
+}

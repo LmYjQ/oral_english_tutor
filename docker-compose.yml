@@ -1,0 +1,20 @@
+services:
+  oral-site:
+    image: nginx:alpine
+    container_name: oral-site
+    restart: unless-stopped
+    # 只读挂载静态文件；改完直接刷新页面即可，无需重启容器
+    volumes:
+      - ./site:/usr/share/nginx/html:ro
+      - ./nginx.conf:/etc/nginx/conf.d/default.conf:ro
+    # ⚠️ 不暴露端口到宿主机，只让 cloudflared 在 Docker 内网访问
+    expose:
+      - "80"
+    networks:
+      - hometutor-net
+
+networks:
+  hometutor-net:
+    # 复用 hometutor 项目已建好的网络（由 backend/docker-compose.yml 创建）
+    external: true
+    name: backend_hometutor-net

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <title>L2 · My Favorite Things 我喜欢什么</title>
+  <meta name="description" content="自研素材口语课 Unit 1 L2：魔法袋、听音选图、说出喜好。孩子自己点的英语网页课。">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🍇</text></svg>">
+  <link rel="stylesheet" href="styles.css?v=20261113-2">
+</head>
+<body>
+  <header class="top">
+    <div class="dots" id="dots"></div>
+    <div class="top-actions">
+      <button class="icon-btn" id="btn-sound" title="声音开关">🔊</button>
+      <button class="icon-btn" id="btn-reset" title="重新开始">↺</button>
+    </div>
+  </header>
+
+  <main class="stage" id="stage"></main>
+
+  <footer class="bottom">
+    <button class="nav-btn" id="btn-back">◀ Back<br><small>上一步</small></button>
+    <div class="progress"><div class="progress-fill" id="progress-fill"></div></div>
+    <button class="nav-btn primary" id="btn-next">Next ▶<br><small>下一步</small></button>
+  </footer>
+
+  <div class="toast" id="toast"></div>
+
+  <script src="../common/core.js?v=20261113-2"></script>
+  <script src="lesson.js?v=20261113-2"></script>
+  <script src="app.js?v=20261113-2"></script>
+</body>
+</html>

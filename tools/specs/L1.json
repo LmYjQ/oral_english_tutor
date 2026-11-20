@@ -1,0 +1,96 @@
+{
+  "lesson": "L1",
+  "title": "Hello! 认识新朋友",
+  "style": "flat vector illustration for a children's picture book, thick clean outlines, soft pastel color palette, simple rounded shapes, cheerful and friendly, no text, no letters, no words, no numbers, no watermark, no logo, no copyrighted character, high quality, clean background",
+  "images": [
+    {
+      "name": "scene_birthday",
+      "prompt": "a cheerful children's birthday party outdoors on the grass: a round table with a pink birthday cake with lit candles, colorful balloons, wrapped presents, a small white and brown dog, a smiling sun in the sky, soft hills behind. Exactly two children: Mia: a girl with brown twin-tails wearing a coral pinafore dress over a white shirt, and Ben: a boy with short black hair wearing a blue shirt and dark shorts. Only these two children, no other people.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "name": "mia",
+      "prompt": "a full body portrait of Mia: a girl with brown twin-tails wearing a coral pinafore dress over a white shirt, standing and smiling and waving one hand, simple plain cream background, full body visible, centered",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "ben",
+      "prompt": "a full body portrait of Ben: a boy with short black hair wearing a blue shirt and dark shorts, standing and smiling and waving one hand, simple plain cream background, full body visible, centered",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "card_cake",
+      "prompt": "one single pink birthday cake with lit candles, isolated on plain white background, centered, object only",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "card_balloon",
+      "prompt": "one single colorful balloon, isolated on plain white background, centered, object only",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "card_present",
+      "prompt": "one single wrapped gift box with a ribbon, isolated on plain white background, centered, object only",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "card_dog",
+      "prompt": "one single small cute white and brown puppy sitting, isolated on plain white background, centered, animal only",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "card_sun",
+      "prompt": "one single smiling sun with simple rays, isolated on plain white background, centered, object only",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "card_girl",
+      "prompt": "one single Mia: a girl with brown twin-tails wearing a coral pinafore dress over a white shirt, standing, isolated on plain white background, centered, one girl only",
+      "width": 1024,
+      "height": 1024
+    }
+  ],
+  "audio": [
+    { "name": "greeting_1", "text": "Hello, hello, how are you?", "voice": "anna" },
+    { "name": "greeting_2", "text": "I'm good, I hope you are!", "voice": "anna" },
+    { "name": "greeting_3", "text": "Wave your hands, give a clap!", "voice": "anna" },
+    { "name": "greeting_4", "text": "Hello, hello, here we are!", "voice": "anna" },
+    { "name": "mia_hello", "text": "Hello, I'm Mia.", "voice": "anna" },
+    { "name": "mia_im", "text": "I'm Mia.", "voice": "anna" },
+    { "name": "ben_whatsname", "text": "What's your name?", "voice": "bella" },
+    { "name": "ben_nicetomeet", "text": "Nice to meet you!", "voice": "bella" },
+    { "name": "ben_wherefrom", "text": "Where are you from?", "voice": "bella" },
+    { "name": "mia_imfrom", "text": "I'm from China.", "voice": "anna" },
+    { "name": "ben_itsgood", "text": "It's good!", "voice": "bella" },
+    { "name": "prompt_whatcansee", "text": "What can you see?", "voice": "anna" },
+    { "name": "prompt_great", "text": "Great job!", "voice": "anna" },
+    { "name": "prompt_listen", "text": "Listen and tap!", "voice": "anna" },
+    { "name": "prompt_yourturn", "text": "Your turn!", "voice": "anna" },
+    { "name": "prompt_welldone", "text": "Well done!", "voice": "anna" },
+    { "name": "prompt_nexyou", "text": "Nice to meet you too!", "voice": "anna" },
+    { "name": "listen_cake", "text": "Look at the cake!", "voice": "anna" },
+    { "name": "listen_balloon", "text": "Look at the balloon!", "voice": "anna" },
+    { "name": "listen_present", "text": "Look at the present!", "voice": "anna" },
+    { "name": "listen_dog", "text": "Look at the dog!", "voice": "anna" },
+    { "name": "word_cake", "text": "cake", "voice": "anna" },
+    { "name": "word_balloon", "text": "balloon", "voice": "anna" },
+    { "name": "word_present", "text": "present", "voice": "anna" },
+    { "name": "word_dog", "text": "dog", "voice": "anna" },
+    { "name": "word_sun", "text": "sun", "voice": "anna" },
+    { "name": "word_girl", "text": "girl", "voice": "anna" },
+    { "name": "ben_hello", "text": "Hello, I'm Ben.", "voice": "bella" },
+    { "name": "ben_bye", "text": "Goodbye! See you later!", "voice": "bella" },
+    { "name": "mia_whatsname", "text": "Hi! What's your name?", "voice": "anna" },
+    { "name": "mia_nicetomeet", "text": "Nice to meet you!", "voice": "anna" },
+    { "name": "mia_wherefrom", "text": "Hi Ben! Where are you from?", "voice": "anna" },
+    { "name": "mia_bye", "text": "Goodbye! See you later!", "voice": "anna" }
+  ]
+}

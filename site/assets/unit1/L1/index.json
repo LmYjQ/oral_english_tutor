@@ -1,0 +1,296 @@
+{
+  "unit": "unit1",
+  "lesson": "L1",
+  "title": "Hello! 认识新朋友",
+  "updated": "2026-11-13T17:57:38",
+  "image_provider": "minimax",
+  "images": [
+    {
+      "file": "images/scene_birthday.jpg",
+      "name": "scene_birthday",
+      "size": "1536x1024",
+      "bytes": 453089
+    },
+    {
+      "file": "images/mia.jpg",
+      "name": "mia",
+      "size": "1024x1024",
+      "bytes": 121400
+    },
+    {
+      "file": "images/ben.jpg",
+      "name": "ben",
+      "size": "1024x1024",
+      "bytes": 93880
+    },
+    {
+      "file": "images/card_cake.jpg",
+      "name": "card_cake",
+      "size": "1024x1024",
+      "bytes": 108436
+    },
+    {
+      "file": "images/card_balloon.jpg",
+      "name": "card_balloon",
+      "size": "1024x1024",
+      "bytes": 44769
+    },
+    {
+      "file": "images/card_present.jpg",
+      "name": "card_present",
+      "size": "1024x1024",
+      "bytes": 87143
+    },
+    {
+      "file": "images/card_dog.jpg",
+      "name": "card_dog",
+      "size": "1024x1024",
+      "bytes": 96019
+    },
+    {
+      "file": "images/card_sun.jpg",
+      "name": "card_sun",
+      "size": "1024x1024",
+      "bytes": 80678
+    },
+    {
+      "file": "images/card_girl.jpg",
+      "name": "card_girl",
+      "size": "1024x1024",
+      "bytes": 64448
+    }
+  ],
+  "audio": [
+    {
+      "file": "audio/L1_greeting_1.mp3",
+      "name": "greeting_1",
+      "text": "Hello, hello, how are you?",
+      "voice": "anna",
+      "bytes": 38895
+    },
+    {
+      "file": "audio/L1_greeting_2.mp3",
+      "name": "greeting_2",
+      "text": "I'm good, I hope you are!",
+      "voice": "anna",
+      "bytes": 40985
+    },
+    {
+      "file": "audio/L1_greeting_3.mp3",
+      "name": "greeting_3",
+      "text": "Wave your hands, give a clap!",
+      "voice": "anna",
+      "bytes": 39313
+    },
+    {
+      "file": "audio/L1_greeting_4.mp3",
+      "name": "greeting_4",
+      "text": "Hello, hello, here we are!",
+      "voice": "anna",
+      "bytes": 46418
+    },
+    {
+      "file": "audio/L1_mia_hello.mp3",
+      "name": "mia_hello",
+      "text": "Hello, I'm Mia.",
+      "voice": "anna",
+      "bytes": 31790
+    },
+    {
+      "file": "audio/L1_mia_im.mp3",
+      "name": "mia_im",
+      "text": "I'm Mia.",
+      "voice": "anna",
+      "bytes": 27192
+    },
+    {
+      "file": "audio/L1_ben_whatsname.mp3",
+      "name": "ben_whatsname",
+      "text": "What's your name?",
+      "voice": "bella",
+      "bytes": 42239
+    },
+    {
+      "file": "audio/L1_ben_nicetomeet.mp3",
+      "name": "ben_nicetomeet",
+      "text": "Nice to meet you!",
+      "voice": "bella",
+      "bytes": 42239
+    },
+    {
+      "file": "audio/L1_ben_wherefrom.mp3",
+      "name": "ben_wherefrom",
+      "text": "Where are you from?",
+      "voice": "bella",
+      "bytes": 41821
+    },
+    {
+      "file": "audio/L1_mia_imfrom.mp3",
+      "name": "mia_imfrom",
+      "text": "I'm from China.",
+      "voice": "anna",
+      "bytes": 23848
+    },
+    {
+      "file": "audio/L1_ben_itsgood.mp3",
+      "name": "ben_itsgood",
+      "text": "It's good!",
+      "voice": "bella",
+      "bytes": 24266
+    },
+    {
+      "file": "audio/L1_prompt_whatcansee.mp3",
+      "name": "prompt_whatcansee",
+      "text": "What can you see?",
+      "voice": "anna",
+      "bytes": 30118
+    },
+    {
+      "file": "audio/L1_prompt_great.mp3",
+      "name": "prompt_great",
+      "text": "Great job!",
+      "voice": "anna",
+      "bytes": 19251
+    },
+    {
+      "file": "audio/L1_prompt_listen.mp3",
+      "name": "prompt_listen",
+      "text": "Listen and tap!",
+      "voice": "anna",
+      "bytes": 25520
+    },
+    {
+      "file": "audio/L1_prompt_yourturn.mp3",
+      "name": "prompt_yourturn",
+      "text": "Your turn!",
+      "voice": "anna",
+      "bytes": 15489
+    },
+    {
+      "file": "audio/L1_prompt_welldone.mp3",
+      "name": "prompt_welldone",
+      "text": "Well done!",
+      "voice": "anna",
+      "bytes": 17161
+    },
+    {
+      "file": "audio/L1_prompt_nexyou.mp3",
+      "name": "prompt_nexyou",
+      "text": "Nice to meet you too!",
+      "voice": "anna",
+      "bytes": 37641
+    },
+    {
+      "file": "audio/L1_listen_cake.mp3",
+      "name": "listen_cake",
+      "text": "Look at the cake!",
+      "voice": "anna",
+      "bytes": 23848
+    },
+    {
+      "file": "audio/L1_listen_balloon.mp3",
+      "name": "listen_balloon",
+      "text": "Look at the balloon!",
+      "voice": "anna",
+      "bytes": 28028
+    },
+    {
+      "file": "audio/L1_listen_present.mp3",
+      "name": "listen_present",
+      "text": "Look at the present!",
+      "voice": "anna",
+      "bytes": 30536
+    },
+    {
+      "file": "audio/L1_listen_dog.mp3",
+      "name": "listen_dog",
+      "text": "Look at the dog!",
+      "voice": "anna",
+      "bytes": 27192
+    },
+    {
+      "file": "audio/L1_word_cake.mp3",
+      "name": "word_cake",
+      "text": "cake",
+      "voice": "anna",
+      "bytes": 11310
+    },
+    {
+      "file": "audio/L1_word_balloon.mp3",
+      "name": "word_balloon",
+      "text": "balloon",
+      "voice": "anna",
+      "bytes": 11310
+    },
+    {
+      "file": "audio/L1_word_present.mp3",
+      "name": "word_present",
+      "text": "present",
+      "voice": "anna",
+      "bytes": 17161
+    },
+    {
+      "file": "audio/L1_word_dog.mp3",
+      "name": "word_dog",
+      "text": "dog",
+      "voice": "anna",
+      "bytes": 10474
+    },
+    {
+      "file": "audio/L1_word_sun.mp3",
+      "name": "word_sun",
+      "text": "sun",
+      "voice": "anna",
+      "bytes": 30954
+    },
+    {
+      "file": "audio/L1_word_girl.mp3",
+      "name": "word_girl",
+      "text": "girl",
+      "voice": "anna",
+      "bytes": 10892
+    },
+    {
+      "file": "audio/L1_ben_hello.mp3",
+      "name": "ben_hello",
+      "text": "Hello, I'm Ben.",
+      "voice": "bella",
+      "bytes": 34297
+    },
+    {
+      "file": "audio/L1_ben_bye.mp3",
+      "name": "ben_bye",
+      "text": "Goodbye! See you later!",
+      "voice": "bella",
+      "bytes": 48090
+    },
+    {
+      "file": "audio/L1_mia_whatsname.mp3",
+      "name": "mia_whatsname",
+      "text": "Hi! What's your name?",
+      "voice": "anna",
+      "bytes": 33043
+    },
+    {
+      "file": "audio/L1_mia_nicetomeet.mp3",
+      "name": "mia_nicetomeet",
+      "text": "Nice to meet you!",
+      "voice": "anna",
+      "bytes": 33043
+    },
+    {
+      "file": "audio/L1_mia_wherefrom.mp3",
+      "name": "mia_wherefrom",
+      "text": "Hi Ben! Where are you from?",
+      "voice": "anna",
+      "bytes": 38059
+    },
+    {
+      "file": "audio/L1_mia_bye.mp3",
+      "name": "mia_bye",
+      "text": "Goodbye! See you later!",
+      "voice": "anna",
+      "bytes": 31372
+    }
+  ]
+}

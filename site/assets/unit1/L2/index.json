@@ -1,0 +1,302 @@
+{
+  "unit": "unit1",
+  "lesson": "L2",
+  "title": "My Favorite Things 我喜欢什么",
+  "updated": "2026-11-13T17:59:00",
+  "image_provider": "minimax",
+  "images": [
+    {
+      "file": "images/scene_playroom.jpg",
+      "name": "scene_playroom",
+      "size": "1536x1024",
+      "bytes": 556662
+    },
+    {
+      "file": "images/magic_bag.jpg",
+      "name": "magic_bag",
+      "size": "1024x1024",
+      "bytes": 68575
+    },
+    {
+      "file": "images/card_grapes.jpg",
+      "name": "card_grapes",
+      "size": "1024x1024",
+      "bytes": 63464
+    },
+    {
+      "file": "images/card_cats.jpg",
+      "name": "card_cats",
+      "size": "1024x1024",
+      "bytes": 83645
+    },
+    {
+      "file": "images/card_green.jpg",
+      "name": "card_green",
+      "size": "1024x1024",
+      "bytes": 72351
+    },
+    {
+      "file": "images/card_hotdog.jpg",
+      "name": "card_hotdog",
+      "size": "1024x1024",
+      "bytes": 59653
+    },
+    {
+      "file": "images/card_pizza.jpg",
+      "name": "card_pizza",
+      "size": "1024x1024",
+      "bytes": 125862
+    },
+    {
+      "file": "images/card_pandas.jpg",
+      "name": "card_pandas",
+      "size": "1024x1024",
+      "bytes": 79684
+    },
+    {
+      "file": "images/card_blue.jpg",
+      "name": "card_blue",
+      "size": "1024x1024",
+      "bytes": 74773
+    },
+    {
+      "file": "images/card_pink.jpg",
+      "name": "card_pink",
+      "size": "1024x1024",
+      "bytes": 66880
+    }
+  ],
+  "audio": [
+    {
+      "file": "audio/L2_greeting_1.mp3",
+      "name": "greeting_1",
+      "text": "Hello, hello, what do you like?",
+      "voice": "anna",
+      "bytes": 40985
+    },
+    {
+      "file": "audio/L2_greeting_2.mp3",
+      "name": "greeting_2",
+      "text": "I like it, I like that!",
+      "voice": "anna",
+      "bytes": 44328
+    },
+    {
+      "file": "audio/L2_greeting_3.mp3",
+      "name": "greeting_3",
+      "text": "Grapes, cats, and colors too!",
+      "voice": "anna",
+      "bytes": 47672
+    },
+    {
+      "file": "audio/L2_greeting_4.mp3",
+      "name": "greeting_4",
+      "text": "Hello, hello, let's say it!",
+      "voice": "anna",
+      "bytes": 39731
+    },
+    {
+      "file": "audio/L2_review_cake.mp3",
+      "name": "review_cake",
+      "text": "cake",
+      "voice": "anna",
+      "bytes": 20087
+    },
+    {
+      "file": "audio/L2_review_balloon.mp3",
+      "name": "review_balloon",
+      "text": "balloon",
+      "voice": "anna",
+      "bytes": 15907
+    },
+    {
+      "file": "audio/L2_review_present.mp3",
+      "name": "review_present",
+      "text": "present",
+      "voice": "anna",
+      "bytes": 12563
+    },
+    {
+      "file": "audio/L2_review_dog.mp3",
+      "name": "review_dog",
+      "text": "dog",
+      "voice": "anna",
+      "bytes": 24684
+    },
+    {
+      "file": "audio/L2_word_grapes.mp3",
+      "name": "word_grapes",
+      "text": "grapes",
+      "voice": "anna",
+      "bytes": 11310
+    },
+    {
+      "file": "audio/L2_word_cats.mp3",
+      "name": "word_cats",
+      "text": "cats",
+      "voice": "anna",
+      "bytes": 21341
+    },
+    {
+      "file": "audio/L2_word_green.mp3",
+      "name": "word_green",
+      "text": "green",
+      "voice": "anna",
+      "bytes": 40567
+    },
+    {
+      "file": "audio/L2_word_hotdog.mp3",
+      "name": "word_hotdog",
+      "text": "hot dog",
+      "voice": "anna",
+      "bytes": 26356
+    },
+    {
+      "file": "audio/L2_word_pizza.mp3",
+      "name": "word_pizza",
+      "text": "pizza",
+      "voice": "anna",
+      "bytes": 13817
+    },
+    {
+      "file": "audio/L2_word_pandas.mp3",
+      "name": "word_pandas",
+      "text": "pandas",
+      "voice": "anna",
+      "bytes": 12563
+    },
+    {
+      "file": "audio/L2_word_blue.mp3",
+      "name": "word_blue",
+      "text": "blue",
+      "voice": "anna",
+      "bytes": 11310
+    },
+    {
+      "file": "audio/L2_word_pink.mp3",
+      "name": "word_pink",
+      "text": "pink",
+      "voice": "anna",
+      "bytes": 13399
+    },
+    {
+      "file": "audio/L2_q_fruit.mp3",
+      "name": "q_fruit",
+      "text": "What's your favorite fruit?",
+      "voice": "bella",
+      "bytes": 45164
+    },
+    {
+      "file": "audio/L2_q_animal.mp3",
+      "name": "q_animal",
+      "text": "What's your favorite animal?",
+      "voice": "bella",
+      "bytes": 54777
+    },
+    {
+      "file": "audio/L2_q_color.mp3",
+      "name": "q_color",
+      "text": "What's your favorite color?",
+      "voice": "anna",
+      "bytes": 33043
+    },
+    {
+      "file": "audio/L2_a_grapes.mp3",
+      "name": "a_grapes",
+      "text": "I like grapes.",
+      "voice": "anna",
+      "bytes": 22594
+    },
+    {
+      "file": "audio/L2_a_cats.mp3",
+      "name": "a_cats",
+      "text": "I like cats.",
+      "voice": "anna",
+      "bytes": 27610
+    },
+    {
+      "file": "audio/L2_a_green.mp3",
+      "name": "a_green",
+      "text": "I like green.",
+      "voice": "anna",
+      "bytes": 20923
+    },
+    {
+      "file": "audio/L2_a_hotdog.mp3",
+      "name": "a_hotdog",
+      "text": "I like hot dogs.",
+      "voice": "anna",
+      "bytes": 35551
+    },
+    {
+      "file": "audio/L2_a_pizza.mp3",
+      "name": "a_pizza",
+      "text": "I like pizza.",
+      "voice": "anna",
+      "bytes": 24684
+    },
+    {
+      "file": "audio/L2_a_pandas.mp3",
+      "name": "a_pandas",
+      "text": "I like pandas.",
+      "voice": "anna",
+      "bytes": 29700
+    },
+    {
+      "file": "audio/L2_a_blue.mp3",
+      "name": "a_blue",
+      "text": "I like blue.",
+      "voice": "anna",
+      "bytes": 23848
+    },
+    {
+      "file": "audio/L2_a_pink.mp3",
+      "name": "a_pink",
+      "text": "I like pink.",
+      "voice": "anna",
+      "bytes": 20923
+    },
+    {
+      "file": "audio/L2_prompt_magic.mp3",
+      "name": "prompt_magic",
+      "text": "Pull it out of the bag!",
+      "voice": "anna",
+      "bytes": 35551
+    },
+    {
+      "file": "audio/L2_prompt_listen.mp3",
+      "name": "prompt_listen",
+      "text": "Listen and tap!",
+      "voice": "anna",
+      "bytes": 30536
+    },
+    {
+      "file": "audio/L2_prompt_yourturn.mp3",
+      "name": "prompt_yourturn",
+      "text": "Your turn!",
+      "voice": "anna",
+      "bytes": 17161
+    },
+    {
+      "file": "audio/L2_prompt_great.mp3",
+      "name": "prompt_great",
+      "text": "Great job!",
+      "voice": "anna",
+      "bytes": 23430
+    },
+    {
+      "file": "audio/L2_prompt_welldone.mp3",
+      "name": "prompt_welldone",
+      "text": "Well done!",
+      "voice": "anna",
+      "bytes": 14653
+    },
+    {
+      "file": "audio/L2_prompt_pick.mp3",
+      "name": "prompt_pick",
+      "text": "Tap the one you hear.",
+      "voice": "anna",
+      "bytes": 33461
+    }
+  ]
+}
